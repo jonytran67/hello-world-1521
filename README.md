@@ -1,2 +1,3 @@
 # hello-world-1521
 Another experirience try out
+Totally new to Linux, sick of MS Window. so keep your fingers cross...
